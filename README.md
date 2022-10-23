@@ -1,2 +1,2 @@
 # biografia
-site em HTL puro
+site em HTML puro
